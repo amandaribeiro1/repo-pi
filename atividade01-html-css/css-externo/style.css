@@ -1,0 +1,27 @@
+.div_pai{
+    background-color: #44a7a2;
+    width: 500px;
+    height: 500px;
+}
+.div_filho{
+    background-color: #873ca5; 
+    width: 250px;
+    height: 250px;
+}
+.p_hello{
+    background-color: rgb(3, 1, 83);
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.div_mae{
+    width:50vw;
+    height:50vh;
+    background-color:rgb(190, 56, 123);
+}
+.div_filha{
+    width:75vw; 
+    height:25vh;
+    background-color: rgb(189, 115, 54);
+}
